@@ -1,4 +1,5 @@
-<img src= "https://github.com/shimozuki/Bedebah/blob/master/6.png">
+<h1 align="center"><img src= "https://github.com/shimozuki/Bedebah/blob/master/6.png"></h1>
+
 
 
 <img src= "https://github.com/shimozuki/deteksi-masker/blob/master/images/2.png" height=500 width=500> 
