@@ -1,4 +1,4 @@
-<h1 align="center"><img src= "https://github.com/shimozuki/Bedebah/blob/master/6.png" width=500></h1>
+<h1 align="center"><img src= "https://github.com/shimozuki/Bedebah/blob/master/6.png" width=100></h1>
 
 
 
