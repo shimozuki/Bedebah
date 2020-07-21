@@ -1,4 +1,4 @@
-<h1 align="center">SAYUR ROFA</h1>
+<h1 align="center">BEDEBAH</h1>
 
 
 <img src= "https://github.com/shimozuki/deteksi-masker/blob/master/images/2.png" height=500 width=500>
@@ -6,7 +6,7 @@
 ## 🚀&nbsp; Installation
 1. Clone the repo
 ```
-$ https://github.com/shimozuki/sayurrofa.git
+$ https://github.com/shimozuki/Bedebah.git
 ```
 ## :clap: And it's done!
 Feel free to mail me for any doubts/query 
